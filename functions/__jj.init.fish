@@ -50,4 +50,5 @@ function __jj.init
   abbr jrb        'jj rebase'
   abbr jrbr       'jj rebase -r'
   abbr jrbs       'jj rebase -s'
+  abbr jrt        "jj rebase -d 'trunk()'"
 end

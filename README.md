@@ -82,8 +82,9 @@ omf install https://github.com/TheColorman/plugin-jj
 
 ### Rebase
 
-| Abbreviation | Command        |
-| ------------ | -------------- |
-| jrb          | `jj rebase`    |
-| jrbr         | `jj rebase -r` |
-| jrbs         | `jj rebase -s` |
+| Abbreviation | Command                  |
+| ------------ | ------------------------ |
+| jrb          | `jj rebase`              |
+| jrbr         | `jj rebase -r`           |
+| jrbs         | `jj rebase -s`           |
+| jrt          | `jj rebase -d 'trunk()'` |
