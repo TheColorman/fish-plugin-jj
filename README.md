@@ -26,6 +26,7 @@ omf install https://github.com/TheColorman/plugin-jj
 | Abbreviation | Command             |
 | ------------ | ------------------- |
 | ja           | `jj abandon`        |
+| jab          | `jj absorb`         |
 | jd           | `jj desc`           |
 | jdm          | `jj desc -m`        |
 | jd-          | `jj desc @-`        |

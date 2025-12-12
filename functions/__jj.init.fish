@@ -1,6 +1,7 @@
 function __jj.init
   # General
   abbr ja         'jj abandon'
+  abbr jab        'jj absorb'
   abbr jd         'jj desc'
   abbr jdm        'jj desc -m'
   abbr jd-        'jj desc @-'
