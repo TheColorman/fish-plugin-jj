@@ -28,7 +28,6 @@ omf install https://github.com/kapsmudit/plugin-jj
 | jbd          | jj bookmark delete                               |
 | jbm          | jj bookmark move                                 |
 | jbm@         | jj bookmark move --to @                          |
-| jj bm        | bookmark move                                    |
 | jcl          | jj git clone --colocate                          |
 | jclo         | jj git clone --colocate --remote upstream        |
 | jd           | jj desc                                          |
@@ -36,7 +35,6 @@ omf install https://github.com/kapsmudit/plugin-jj
 | jdf          | jj diff                                          |
 | jdg          | jj diff --git                                    |
 | je           | jj edit                                          |
-| jj e         | edit                                             |
 | jfa          | jj git fetch --all-remotes                       |
 | jf           | jj git fetch                                     |
 | jp           | jj git push                                      |
