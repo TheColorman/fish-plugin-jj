@@ -17,6 +17,7 @@ function __jj.init
   abbr jb         'jj bookmark'
   abbr jbc        'jj bookmark create'
   abbr jbd        'jj bookmark delete'
+  abbr jbf        'jj bookmark forget'
   abbr jbm        'jj bookmark move'
   abbr jbm@       'jj bookmark move --to @'
 
