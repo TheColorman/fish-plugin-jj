@@ -28,6 +28,7 @@ omf install https://github.com/TheColorman/plugin-jj
 | ja           | `jj abandon`        |
 | jd           | `jj desc`           |
 | jdm          | `jj desc -m`        |
+| jd-          | `jj desc @-`        |
 | jdf          | `jj diff`           |
 | jdg          | `jj diff --git`     |
 | je           | `jj edit`           |

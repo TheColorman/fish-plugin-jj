@@ -3,6 +3,7 @@ function __jj.init
   abbr ja         'jj abandon'
   abbr jd         'jj desc'
   abbr jdm        'jj desc -m'
+  abbr jd-        'jj desc @-'
   abbr jdf        'jj diff'
   abbr jdg        'jj diff --git'
   abbr je         'jj edit'
