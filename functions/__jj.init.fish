@@ -24,6 +24,7 @@ function __jj.init
   abbr jbm        'jj bookmark move'
   abbr jbm@       'jj bookmark move --to @'
   abbr jbs        'jj bookmark set'
+  abbr jbt        'jj bookmark track'
 
   # Git
   abbr jcl        'jj git clone --colocate'

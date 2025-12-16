@@ -52,6 +52,7 @@ omf install https://github.com/TheColorman/plugin-jj
 | jbm          | `jj bookmark move`        |
 | jbm@         | `jj bookmark move --to @` |
 | jbs          | `jj bookmark set`         |
+| jbt          | `jj bookmark track`       |
 
 ### Git
 
