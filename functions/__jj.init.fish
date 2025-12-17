@@ -10,6 +10,7 @@ function __jj.init
   abbr je         'jj edit'
   abbr jx         'jj fix'
   abbr jl         'jj log'
+  abbr jrs        'jj resolve'
   abbr jst        'jj status'
   abbr jsh        'jj show'
   abbr jshs       'jj show --summary'

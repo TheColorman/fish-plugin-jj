@@ -35,6 +35,7 @@ omf install https://github.com/TheColorman/plugin-jj
 | je           | `jj edit`           |
 | jx           | `jj fix`            |
 | jl           | `jj log`            |
+| jrs          | `jj resolve`        |
 | jst          | `jj status`         |
 | jsh          | `jj show`           |
 | jshs         | `jj show --summary` |
