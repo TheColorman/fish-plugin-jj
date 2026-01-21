@@ -41,6 +41,7 @@ omf install https://github.com/TheColorman/plugin-jj
 | jshs         | `jj show --summary` |
 | jsp          | `jj split`          |
 | jsq          | `jj squash`         |
+| ju           | `jj undo`           |
 
 ### Bookmarks
 

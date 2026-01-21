@@ -16,6 +16,7 @@ function __jj.init
   abbr jshs       'jj show --summary'
   abbr jsp        'jj split'
   abbr jsq        'jj squash'
+  abbr ju         'jj undo'
 
   # Bookmarks
   abbr jb         'jj bookmark'
