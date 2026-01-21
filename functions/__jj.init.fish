@@ -11,6 +11,7 @@ function __jj.init
   abbr jx         'jj fix'
   abbr jl         'jj log'
   abbr jrs        'jj resolve'
+  abbr jrst       'jj restore'
   abbr jst        'jj status'
   abbr jsh        'jj show'
   abbr jshs       'jj show --summary'
