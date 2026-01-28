@@ -7,6 +7,7 @@ function __jj.init
   abbr jd-        'jj desc @-'
   abbr jdf        'jj diff'
   abbr jdg        'jj diff --git'
+  abbr jdp        'jj duplicate'
   abbr je         'jj edit'
   abbr jx         'jj fix'
   abbr jl         'jj log'
