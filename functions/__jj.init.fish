@@ -46,6 +46,7 @@ function __jj.init
 
   # New
   abbr jn         'jj new'
+  abbr jnt        "jj new 'trunk()'"
   abbr jna        'jj new -A'
   abbr jnb        'jj new -B'
   abbr jnm        'jj new -m'

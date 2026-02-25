@@ -80,6 +80,7 @@ omf install https://github.com/TheColorman/plugin-jj
 | Abbreviation | Command               |
 | ------------ | --------------------- |
 | jn           | `jj new`              |
+| jnt          | `jj new 'trunk()'`    |
 | jna          | `jj new -A`           |
 | jnb          | `jj new -B`           |
 | jnm          | `jj new -m`           |
