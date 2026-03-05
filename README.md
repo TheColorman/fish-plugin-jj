@@ -51,6 +51,7 @@ omf install https://github.com/TheColorman/plugin-jj
 | Abbreviation | Command                   |
 | ------------ | ------------------------- |
 | jb           | `jj bookmark`             |
+| jba          | `jj bookmark advance`     |
 | jbc          | `jj bookmark create`      |
 | jbd          | `jj bookmark delete`      |
 | jbf          | `jj bookmark forget`      |

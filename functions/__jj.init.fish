@@ -23,6 +23,7 @@ function __jj.init
 
   # Bookmarks
   abbr jb         'jj bookmark'
+  abbr jba        'jj bookmark advance'
   abbr jbc        'jj bookmark create'
   abbr jbd        'jj bookmark delete'
   abbr jbf        'jj bookmark forget'
