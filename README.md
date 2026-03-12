@@ -81,6 +81,12 @@ omf install https://github.com/TheColorman/plugin-jj
 | jpc          | `jj git push --change`       |
 | jpd          | `jj git push --deleted`      |
 
+##### GitLab-specific [push options](https://docs.gitlab.com/topics/git/commit/#push-options)
+
+| Abbreviation | Command                                                                              |
+| ------------ | ------------------------------------------------------------------------------------ |
+| jmr          | `jj git push -o merge_request.create -o merge_request.remove_source_branch --change` |
+
 #### Git remote
 
 | Abbreviation | Command              |

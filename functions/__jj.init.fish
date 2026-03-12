@@ -44,6 +44,8 @@ function __jj.init
   abbr jpb        'jj git push --bookmark'
   abbr jpc        'jj git push --change'
   abbr jpd        'jj git push --deleted'
+  ### GitLab
+  abbr jmr        'jj git push -o merge_request.create -o merge_request.remove_source_branch --change'
   ## Remote
   abbr jgr        'jj git remote'
   abbr jgra       'jj git remote add'
