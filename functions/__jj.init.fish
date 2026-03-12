@@ -33,8 +33,10 @@ function __jj.init
   abbr jbt        'jj bookmark track'
 
   # Git
+  ## Clone
   abbr jcl        'jj git clone --colocate'
   abbr jclo       'jj git clone --colocate --remote upstream'
+  ## Fetch/push
   abbr jfa        'jj git fetch --all-remotes'
   abbr jf         'jj git fetch'
   abbr jp         'jj git push'
@@ -42,6 +44,7 @@ function __jj.init
   abbr jpb        'jj git push --bookmark'
   abbr jpc        'jj git push --change'
   abbr jpd        'jj git push --deleted'
+  ## Remote
   abbr jgr        'jj git remote'
   abbr jgra       'jj git remote add'
   abbr jgrl       'jj git remote list'

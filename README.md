@@ -62,20 +62,32 @@ omf install https://github.com/TheColorman/plugin-jj
 
 ### Git
 
+#### Git clone
+
 | Abbreviation | Command                                     |
 | ------------ | ------------------------------------------- |
 | jcl          | `jj git clone --colocate`                   |
 | jclo         | `jj git clone --colocate --remote upstream` |
-| jfa          | `jj git fetch --all-remotes`                |
-| jf           | `jj git fetch`                              |
-| jp           | `jj git push`                               |
-| jpa          | `jj git push --all`                         |
-| jpb          | `jj git push --bookmark`                    |
-| jpc          | `jj git push --change`                      |
-| jpd          | `jj git push --deleted`                     |
-| jgr          | `jj git remote`                             |
-| jgra         | `jj git remote add`                         |
-| jgrl         | `jj git remote list`                        |
+
+#### Git fetch/push
+
+| Abbreviation | Command                      |
+| ------------ | ---------------------------- |
+| jfa          | `jj git fetch --all-remotes` |
+| jf           | `jj git fetch`               |
+| jp           | `jj git push`                |
+| jpa          | `jj git push --all`          |
+| jpb          | `jj git push --bookmark`     |
+| jpc          | `jj git push --change`       |
+| jpd          | `jj git push --deleted`      |
+
+#### Git remote
+
+| Abbreviation | Command              |
+| ------------ | -------------------- |
+| jgr          | `jj git remote`      |
+| jgra         | `jj git remote add`  |
+| jgrl         | `jj git remote list` |
 
 ### New
 
