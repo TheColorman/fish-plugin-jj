@@ -86,6 +86,7 @@ omf install https://github.com/TheColorman/plugin-jj
 | Abbreviation | Command                                                                              |
 | ------------ | ------------------------------------------------------------------------------------ |
 | jmr          | `jj git push -o merge_request.create -o merge_request.remove_source_branch --change` |
+| jmra         | Same as `jmr`, but enables auto-merge                                                |
 
 #### Git remote
 
