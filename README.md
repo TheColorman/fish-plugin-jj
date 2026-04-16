@@ -118,3 +118,9 @@ omf install https://github.com/TheColorman/plugin-jj
 | jrbr         | `jj rebase -r`           |
 | jrbs         | `jj rebase -s`           |
 | jrt          | `jj rebase -d 'trunk()'` |
+
+### Tag
+
+| Abbreviation | Command         |
+| ------------ | --------------- |
+| jtd          | `jj tag delete` |

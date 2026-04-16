@@ -68,4 +68,7 @@ function __jj.init
   abbr jrbr       'jj rebase -r'
   abbr jrbs       'jj rebase -s'
   abbr jrt        "jj rebase -d 'trunk()'"
+
+  # Tag
+  abbr jtd        'jj tag delete'
 end
