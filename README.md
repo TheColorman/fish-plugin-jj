@@ -125,3 +125,4 @@ omf install https://github.com/TheColorman/plugin-jj
 | ------------ | --------------- |
 | jtd          | `jj tag delete` |
 | jtl          | `jj tag list`   |
+| jts          | `jj tag set`    |
