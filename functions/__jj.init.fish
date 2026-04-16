@@ -71,4 +71,5 @@ function __jj.init
 
   # Tag
   abbr jtd        'jj tag delete'
+  abbr jtl        'jj tag list'
 end

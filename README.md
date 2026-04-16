@@ -124,3 +124,4 @@ omf install https://github.com/TheColorman/plugin-jj
 | Abbreviation | Command         |
 | ------------ | --------------- |
 | jtd          | `jj tag delete` |
+| jtl          | `jj tag list`   |
