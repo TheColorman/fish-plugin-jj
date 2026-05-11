@@ -28,6 +28,7 @@ function __jj.init
   abbr jbd        'jj bookmark delete'
   abbr jbf        'jj bookmark forget'
   abbr jbl        'jj bookmark list'
+  abbr jbla       'jj bookmark list --all-remotes'
   abbr jbm        'jj bookmark move'
   abbr jbm@       'jj bookmark move --to @'
   abbr jbs        'jj bookmark set'
