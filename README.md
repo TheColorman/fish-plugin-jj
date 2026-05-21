@@ -48,19 +48,19 @@ omf install https://github.com/TheColorman/plugin-jj
 
 ### Bookmarks
 
-| Abbreviation | Command                   |
-| ------------ | ------------------------- |
-| jb           | `jj bookmark`             |
-| jba          | `jj bookmark advance`     |
-| jbc          | `jj bookmark create`      |
-| jbd          | `jj bookmark delete`      |
-| jbf          | `jj bookmark forget`      |
-| jbl          | `jj bookmark list`        |
+| Abbreviation | Command                         |
+| ------------ | ------------------------------- |
+| jb           | `jj bookmark`                   |
+| jba          | `jj bookmark advance`           |
+| jbc          | `jj bookmark create`            |
+| jbd          | `jj bookmark delete`            |
+| jbf          | `jj bookmark forget`            |
+| jbl          | `jj bookmark list`              |
 | jbla         | `jj bookmark list --all-remotes |
-| jbm          | `jj bookmark move`        |
-| jbm@         | `jj bookmark move --to @` |
-| jbs          | `jj bookmark set`         |
-| jbt          | `jj bookmark track`       |
+| jbm          | `jj bookmark move`              |
+| jbm@         | `jj bookmark move --to @`       |
+| jbs          | `jj bookmark set`               |
+| jbt          | `jj bookmark track`             |
 
 ### Git
 
