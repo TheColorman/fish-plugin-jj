@@ -23,28 +23,29 @@ omf install https://github.com/TheColorman/plugin-jj
 
 ### General
 
-| Abbreviation | Command             |
-| ------------ | ------------------- |
-| ja           | `jj abandon`        |
-| jab          | `jj absorb`         |
-| jar          | `jj arrange`        |
-| jd           | `jj desc`           |
-| jdm          | `jj desc -m`        |
-| jd-          | `jj desc @-`        |
-| jdf          | `jj diff`           |
-| jdg          | `jj diff --git`     |
-| jdp          | `jj duplicate`      |
-| je           | `jj edit`           |
-| jx           | `jj fix`            |
-| jl           | `jj log`            |
-| jrs          | `jj resolve`        |
-| jrst         | `jj restore`        |
-| jst          | `jj status`         |
-| jsh          | `jj show`           |
-| jshs         | `jj show --summary` |
-| jsp          | `jj split`          |
-| jsq          | `jj squash`         |
-| ju           | `jj undo`           |
+| Abbreviation | Command                     |
+| ------------ | --------------------------- |
+| ja           | `jj abandon`                |
+| jab          | `jj absorb`                 |
+| jar          | `jj arrange`                |
+| jd           | `jj desc`                   |
+| jdm          | `jj desc -m`                |
+| jd-          | `jj desc @-`                |
+| jdf          | `jj diff`                   |
+| jdg          | `jj diff --git`             |
+| jdp          | `jj duplicate`              |
+| je           | `jj edit`                   |
+| jx           | `jj fix`                    |
+| jl           | `jj log`                    |
+| jrs          | `jj resolve`                |
+| jrst         | `jj restore`                |
+| jst          | `jj status`                 |
+| jsh          | `jj show`                   |
+| jshs         | `jj show --summary`         |
+| jsp          | `jj split`                  |
+| jsq          | `jj squash`                 |
+| ju           | `jj undo`                   |
+| jwu          | `jj workspace update-stale` |
 
 ### Bookmarks
 

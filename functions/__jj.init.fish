@@ -20,6 +20,7 @@ function __jj.init
   abbr jsp        'jj split'
   abbr jsq        'jj squash'
   abbr ju         'jj undo'
+  abbr jwu        'jj workspace update-stale'
 
   # Bookmarks
   abbr jb         'jj bookmark'
