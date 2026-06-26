@@ -134,4 +134,5 @@ omf install https://github.com/TheColorman/plugin-jj
 | Abbreviation | Command                     |
 | ------------ | --------------------------- |
 | jw           | `jj workspace`              |
+| jwa          | `jj workspace add`          |
 | jwu          | `jj workspace update-stale` |
