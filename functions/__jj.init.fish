@@ -82,5 +82,6 @@ function __jj.init
   abbr jwf        'jj workspace forget'
   abbr jwl        'jj workspace list'
   abbr jwr        'jj workspace rename'
+  abbr jwro       'jj workspace root'
   abbr jwu        'jj workspace update-stale'
 end
