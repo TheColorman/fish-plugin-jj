@@ -36,6 +36,7 @@ function __jj.init
 
   # Git
   ## Clone
+  abbr jc         'jj git clone'
   abbr jcl        'jj git clone --colocate'
   abbr jclo       'jj git clone --colocate --remote upstream'
   ## Fetch/push
