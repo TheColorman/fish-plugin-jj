@@ -48,6 +48,7 @@ function __jj.init
   abbr jpc        'jj git push --change'
   abbr jpd        'jj git push --deleted'
   abbr jpt        'jj git push --tag'
+  abbr jptr       'jj git push --tracked'
   ### GitLab
   abbr jmr        'jj git push -o merge_request.create -o merge_request.remove_source_branch --change'
   abbr jmra       'jj git push -o merge_request.create -o merge_request.remove_source_branch -o merge_request.auto_merge --change'

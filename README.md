@@ -84,6 +84,7 @@ omf install https://github.com/TheColorman/plugin-jj
 | jpc          | `jj git push --change`       |
 | jpd          | `jj git push --deleted`      |
 | jpt          | `jj git push --tag`          |
+| jptr         | `jj git push --tracked`      |
 
 ##### GitLab-specific [push options](https://docs.gitlab.com/topics/git/commit/#push-options)
 
