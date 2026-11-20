@@ -3,6 +3,7 @@ function __jj.init
   abbr ja         'jj abandon'
   abbr jab        'jj absorb'
   abbr jar        'jj arrange'
+  abbr jc         'jj commit'
   abbr jd         'jj desc'
   abbr jdm        'jj desc -m'
   abbr jd-        'jj desc @-'
