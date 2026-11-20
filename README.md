@@ -68,9 +68,9 @@ omf install https://github.com/TheColorman/plugin-jj
 
 | Abbreviation | Command                                     |
 | ------------ | ------------------------------------------- |
-| jc           | `jj git clone`                              |
-| jcl          | `jj git clone --colocate`                   |
-| jclo         | `jj git clone --colocate --remote upstream` |
+| jgc          | `jj git clone`                              |
+| jgcl         | `jj git clone --colocate`                   |
+| jgclo        | `jj git clone --colocate --remote upstream` |
 
 #### Git fetch/push
 
